@@ -3,7 +3,7 @@
     <form class="form-inline pt-3" @submit="searchImage">
       <div class="mb-2 flex-grow-1">
         <input
-          type="form-control"
+          type="text"
           placeholder="Search for free photos"
           class="form-control"
           v-model="image"
