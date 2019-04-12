@@ -1,11 +1,17 @@
+html,
+body {
+	width: 100%;
+	height: 100%;
+}
+
 body {
 	font-family: 'Rubik', sans-serif;
 }
 
 .img-bg {
-	min-height: 100%;
-	height: 100%;
 	background-color: #1f4d8c !important;
+	min-height: 100%;
+	color: #fff;
 }
 
 .form-container {
